@@ -1,6 +1,8 @@
 provider "aws" {
   profile = "myaws"
   region  = var.region
+  Access_key = "AKIATXT326VAS7XTIVKC"
+  Secret_key = "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"
 }
 
 
